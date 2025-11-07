@@ -1,15 +1,15 @@
 <!-- ====================================================== -->
-<!-- 🌌 SIVA SANKAR JAMMULA | DEVOPS • CLOUD • AUTOMATION  -->
+<!-- 🌐 SIVA SANKAR JAMMULA | DEVOPS • CLOUD • AUTOMATION  -->
 <!-- ====================================================== -->
 
-<!-- 🌠 Animated Banner -->
+<!-- 💻 Animated DevOps Banner -->
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="900" alt="animated banner" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="900" alt="DevOps Animation Banner"/>
 </p>
 
 <!-- ==== HEADER ==== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;CI%2FCD+%7C+Kubernetes+%7C+AWS+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;CI%2FCD+Pipeline+Architect;Continuous+Innovation+%26+Reliability" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Siva Sankar Jammula</span></h1>
@@ -27,17 +27,17 @@
 ## 💡 About Me  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" alt="working animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation" />
 </p>
 
-I’m a **DevOps Engineer** who loves turning complex deployment challenges into seamless automated workflows.  
-My passion lies in **building resilient infrastructure**, **optimizing CI/CD pipelines**, and **orchestrating scalable cloud environments** that actually *work flawlessly*.  
+Driven **DevOps Engineer** focused on **automation, scalability, and reliability**.  
+I architect and manage **modern cloud infrastructure**, build **end-to-end CI/CD pipelines**, and ensure deployments are **fast, repeatable, and bulletproof**.  
 
-- ⚙️ I design and maintain **containerized ecosystems** using Docker & Kubernetes.  
-- ☁️ I create **secure, cost-efficient AWS environments** with Terraform and Ansible.  
-- 🔁 I thrive on **automation, observability, and system reliability** — not manual firefighting.  
-- 💬 I believe **clarity, documentation, and repeatability** define good engineering.  
-- 🎯 Current goal: mastering **end-to-end delivery pipelines with advanced IaC and GitOps**.  
+- ⚙️ Designing **containerized microservice pipelines** with Docker & Kubernetes.  
+- ☁️ Provisioning **AWS environments** using Terraform & Ansible.  
+- 🧩 Automating everything — from build to deploy — using Jenkins & GitHub Actions.  
+- 🔎 Building **observability stacks** with Prometheus, Grafana, and CloudWatch.  
+- 🚀 My goal: achieve full **GitOps automation** — from commit to production rollout.  
 
 ---
 
@@ -52,31 +52,31 @@ My passion lies in **building resilient infrastructure**, **optimizing CI/CD pip
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <img src="https://github.com/raghavk16/raghavk16/raw/master/images/terminal.gif" width="700" alt="terminal animation" />
+  <img src="https://i.imgur.com/L8e9EEl.gif" width="700" alt="DevOps Terminal Animation"/>
 </p>
 
 <div align="center">
 
 ### 🧩 **Complete CI/CD Pipeline – AWS EKS & ECR**  
 📦 *Jenkins • Docker • ECR • EKS • GitHub Actions*  
-Automated build, test & deploy of Node.js applications using Jenkins pipelines integrated with AWS ECR and Kubernetes (EKS).  
-✅ Continuous Deployment with zero downtime and full container orchestration.  
+Automated build, test, and deployment pipeline for Node.js microservices.  
+Seamlessly integrates Jenkins with AWS ECR & Kubernetes to ensure **zero-downtime deployments**.  
 🔗 [View Repository »](https://github.com/DarlingJammula/-Complete-CI-CD-Pipeline-with-AWS-EKS-AWS-ECR.git)
 
 ---
 
 ### ⚙️ **Terraform + AWS Infrastructure Provisioning**  
 🌍 *Terraform • Jenkins • AWS EC2 • Docker Compose*  
-End-to-end Infrastructure as Code pipeline — provisions EC2 instances, builds Docker images, and deploys stacks automatically.  
-✅ Fully hands-off infra management and reproducible deployments.  
+Fully automated Infrastructure as Code setup — from provisioning EC2 to deploying containers.  
+One click = build, deploy, monitor. Fully reproducible infrastructure automation.  
 🔗 [View Repository »](https://github.com/DarlingJammula/CI-CD-Pipeline-with-Terraform-AWS-Provisioning.git)
 
 ---
 
 ### 📈 **Monitoring & Observability Stack**  
 📊 *Prometheus • Grafana • CloudWatch • Docker*  
-Built a monitoring ecosystem with visual dashboards and real-time alerts for microservices running on containers.  
-✅ Improved MTTR & proactive system visibility.  
+Built a complete monitoring solution with alerts and real-time visualizations for containerized services.  
+Enhanced reliability and proactive issue detection with metric-based alerts.  
 🔗 [View Demo »](#)
 
 </div>
