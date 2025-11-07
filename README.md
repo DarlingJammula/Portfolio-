@@ -2,6 +2,12 @@
 <!-- 🌌 SIVA SANKAR JAMMULA | DEVOPS • CLOUD • AUTOMATION  -->
 <!-- ====================================================== -->
 
+<!-- 🌠 Animated Banner -->
+<p align="center">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="900" alt="animated banner" />
+</p>
+
+<!-- ==== HEADER ==== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;CI%2FCD+%7C+Kubernetes+%7C+AWS+Specialist" alt="Typing SVG" />
 </p>
@@ -18,11 +24,20 @@
 
 ---
 
-## 🌟 About Me  
-💡 Passionate about **automating infrastructure**, **scaling cloud systems**, and **building CI/CD pipelines**.  
-🧠 Learning **Kubernetes**, **Terraform**, and **advanced AWS architectures**.  
-☁️ Experienced in **Docker, Jenkins, Ansible, Prometheus, Grafana, and CloudWatch**.  
-⚙️ “If it’s manual twice, I automate it once.”
+## 💡 About Me  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" alt="working animation" />
+</p>
+
+I’m a **DevOps Engineer** who loves turning complex deployment challenges into seamless automated workflows.  
+My passion lies in **building resilient infrastructure**, **optimizing CI/CD pipelines**, and **orchestrating scalable cloud environments** that actually *work flawlessly*.  
+
+- ⚙️ I design and maintain **containerized ecosystems** using Docker & Kubernetes.  
+- ☁️ I create **secure, cost-efficient AWS environments** with Terraform and Ansible.  
+- 🔁 I thrive on **automation, observability, and system reliability** — not manual firefighting.  
+- 💬 I believe **clarity, documentation, and repeatability** define good engineering.  
+- 🎯 Current goal: mastering **end-to-end delivery pipelines with advanced IaC and GitOps**.  
 
 ---
 
@@ -36,11 +51,35 @@
 
 ## 🚀 Featured Projects  
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [**CI/CD Pipeline – AWS EKS & ECR**](https://github.com/DarlingJammula/-Complete-CI-CD-Pipeline-with-AWS-EKS-AWS-ECR.git) | End-to-end automated build, test & deploy pipeline using Jenkins, Docker, and Kubernetes. | Jenkins · Docker · ECR · EKS |
-| [**Terraform + AWS Provisioning**](https://github.com/DarlingJammula/CI-CD-Pipeline-with-Terraform-AWS-Provisioning.git) | Fully automated cloud provisioning and app deployment using IaC. | Terraform · Jenkins · AWS EC2 |
-| [**Monitoring Stack**](#) | Implemented observability with Prometheus, Grafana & alerting rules for containerized workloads. | Prometheus · Grafana · Docker |
+<p align="center">
+  <img src="https://github.com/raghavk16/raghavk16/raw/master/images/terminal.gif" width="700" alt="terminal animation" />
+</p>
+
+<div align="center">
+
+### 🧩 **Complete CI/CD Pipeline – AWS EKS & ECR**  
+📦 *Jenkins • Docker • ECR • EKS • GitHub Actions*  
+Automated build, test & deploy of Node.js applications using Jenkins pipelines integrated with AWS ECR and Kubernetes (EKS).  
+✅ Continuous Deployment with zero downtime and full container orchestration.  
+🔗 [View Repository »](https://github.com/DarlingJammula/-Complete-CI-CD-Pipeline-with-AWS-EKS-AWS-ECR.git)
+
+---
+
+### ⚙️ **Terraform + AWS Infrastructure Provisioning**  
+🌍 *Terraform • Jenkins • AWS EC2 • Docker Compose*  
+End-to-end Infrastructure as Code pipeline — provisions EC2 instances, builds Docker images, and deploys stacks automatically.  
+✅ Fully hands-off infra management and reproducible deployments.  
+🔗 [View Repository »](https://github.com/DarlingJammula/CI-CD-Pipeline-with-Terraform-AWS-Provisioning.git)
+
+---
+
+### 📈 **Monitoring & Observability Stack**  
+📊 *Prometheus • Grafana • CloudWatch • Docker*  
+Built a monitoring ecosystem with visual dashboards and real-time alerts for microservices running on containers.  
+✅ Improved MTTR & proactive system visibility.  
+🔗 [View Demo »](#)
+
+</div>
 
 ---
 
@@ -54,17 +93,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarlingJammula&theme=react-dark&bg_color=0d1117&hide_border=true" width="95%"/>
 </p>
-
----
-
-## 🎓 Education & Certifications  
-
-🎓 **B.Tech in Computer Science Engineering (2021 – 2025)**  
-📍 Vasireddy Venkatadri Institute of Technology (VVIT), Guntur  
-
-🏅 **AWS Certified Cloud Practitioner – AWS**  
-🏅 **Introduction to Kubernetes (LFS158) – Linux Foundation**  
-🏅 **Introduction to DevOps & SRE (LFS162) – Linux Foundation**
 
 ---
 
