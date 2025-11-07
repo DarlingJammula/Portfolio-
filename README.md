@@ -4,7 +4,7 @@
 
 <!-- 💻 Animated DevOps Banner -->
 <p align="center">
-  <img src="https://www.shutterstock.com/shutterstock/videos/1095260987/thumb/11.jpg?ip=x480" width="100%" Height="600px" alt="DevOps Animation Banner"/>
+  <img src="https://www.shutterstock.com/shutterstock/videos/1095260987/thumb/11.jpg?ip=x480" width="70%" Height="400px" alt="DevOps Animation Banner"/>
 </p>
 
 <!-- ==== HEADER ==== -->
