@@ -4,7 +4,7 @@
 
 <!-- 💻 Animated DevOps Banner -->
 <p align="center">
-  <img src="https://www.shutterstock.com/shutterstock/videos/1095260987/thumb/11.jpg?ip=x480" width="70%" Height="400px" alt="DevOps Animation Banner"/>
+  <img src="https://www.shutterstock.com/shutterstock/videos/1095260987/thumb/11.jpg?ip=x480" width="60%" Height="350px" alt="DevOps Animation Banner"/>
 </p>
 
 <!-- ==== HEADER ==== -->
@@ -52,7 +52,7 @@ I architect and manage **modern cloud infrastructure**, build **end-to-end CI/CD
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <img src="https://i.imgur.com/L8e9EEl.gif" width="700" alt="DevOps Terminal Animation"/>
+  <img src="https://www.visualpath.in/devopsprojects/images/devops_logo4.jpg" width="700" alt="DevOps Terminal Animation"/>
 </p>
 
 <div align="center">
