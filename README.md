@@ -8,9 +8,9 @@
 </p> -->
 
 <!-- ==== HEADER ==== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;CI%2FCD+Pipeline+Architect;Continuous+Innovation+%26+Reliability" alt="Typing SVG" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Siva Sankar Jammula</span></h1>
 <h3 align="center">🚀 DevOps | Cloud | Infrastructure as Code | CI/CD Automation</h3>
