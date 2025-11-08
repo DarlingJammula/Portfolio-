@@ -3,9 +3,9 @@
 <!-- ====================================================== -->
 
 <!-- 💻 Animated DevOps Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://www.shutterstock.com/shutterstock/videos/1095260987/thumb/11.jpg?ip=x480" width="60%" Height="350px" alt="DevOps Animation Banner"/>
-</p>
+</p> -->
 
 <!-- ==== HEADER ==== -->
 <p align="center">
@@ -20,6 +20,14 @@
   <a href="https://github.com/DarlingJammula"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:jammulasivasankar2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/JSivasankar17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Infrastructure+as+Code+Advocate;CI%2FCD+Pipeline+Architect;Continuous+Innovation+%26+Reliability" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://www.shutterstock.com/shutterstock/videos/1095260987/thumb/11.jpg?ip=x480" width="60%" Height="350px" alt="DevOps Animation Banner"/>
 </p>
 
 ---
